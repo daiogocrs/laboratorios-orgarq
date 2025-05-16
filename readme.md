@@ -2,7 +2,9 @@
 
 Este repositório contém os trabalhos práticos (laboratórios) desenvolvidos na disciplina de **Organização e Arquitetura de Computadores**. Os exercícios foram realizados utilizando a linguagem **Assembly MIPS**, com auxílio do simulador **MARS** e da ferramenta **Digital Lab Sim** para simulações de hardware.
 
-## 🧪 Conteúdo
+---
+
+## 📚 Conteúdo
 
 Os laboratórios abordam conceitos fundamentais de organização e funcionamento de computadores, com foco especial na arquitetura MIPS. Entre os temas explorados estão:
 
@@ -37,6 +39,10 @@ Cada pasta contém os arquivos `.asm` dos laboratórios, instruções, comentár
 ## ✍️ Autor
 
 - **Diogo Borges Corso**  
-  Estudante de Engenharia de Computação | UFSC - Araranguá 
+  Estudante de Engenharia de Computação | UFSC - Campus Araranguá 
 
 ---
+
+## 📄 Licença
+
+Este repositório é de uso livre para fins acadêmicos e educacionais. Sinta-se à vontade para estudar, adaptar e reutilizar o conteúdo, citando a fonte quando necessário.
